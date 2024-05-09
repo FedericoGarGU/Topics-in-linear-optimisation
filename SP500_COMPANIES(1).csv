@@ -1,0 +1,504 @@
+Column1.1,Column1.2.1,Column1.2.2.1,Column1.2.2.2.1,Column1.2.2.2.2.1,Column1.2.2.2.2.2.1,Column1.2.2.2.2.2.2.1,Column1.2.2.2.2.2.2.2.1,Column1.2.2.2.2.2.2.2.2.1,Column1.2.2.2.2.2.2.2.2.2.1,Column1.2.2.2.2.2.2.2.2.2.2.1,Column1.2.2.2.2.2.2.2.2.2.2.2.1,Column1.2.2.2.2.2.2.2.2.2.2.2.2.1,Column1.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+NMS,MSFT,Microsoft Corporation,Microsoft Corporation,Technology,Software - Infrastructure,389.33,2893620969472,1.25182E+11,0.17,Redmond,WA,United States,221000
+NMS,AAPL,Apple Inc.,Apple Inc.,Technology,Consumer Electronics,170.33,2630218678272,1.30109E+11,0.021,Cupertino,CA,United States,161000
+NMS,NVDA,NVIDIA Corporation,NVIDIA Corporation,Technology,Semiconductors,864.02,2160050044928,34480001024,2.653,Santa Clara,CA,United States,29600
+NMS,GOOG,Alphabet Inc.,Alphabet Inc.,Communication Services,Internet Content & Information,164.64,2023046905856,1.09723E+11,0.154,Mountain View,CA,United States,180895
+NMS,GOOGL,Alphabet Inc.,Alphabet Inc.,Communication Services,Internet Content & Information,162.78,2021271797760,1.09723E+11,0.154,Mountain View,CA,United States,180895
+NMS,AMZN,Amazon.com Inc.,Amazon.com Inc.,Consumer Cyclical,Internet Retail,175.0,1820472508416,85515001856,0.139,Seattle,WA,United States,1525000
+NMS,META,Meta Platforms Inc.,Meta Platforms Inc.,Communication Services,Internet Content & Information,430.17,1091139141632,69443002368,0.273,Menlo Park,CA,United States,69329
+NYQ,BRK-B,Berkshire Hathaway Inc. New,Berkshire Hathaway Inc.,Financial Services,Insurance - Diversified,396.73,857817546752,1.35682E+11,0.196,Omaha,NE,United States,396500
+NYQ,LLY,Eli Lilly and Company,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,781.1,742643335168,12314600448,0.281,Indianapolis,IN,United States,43000
+NMS,AVGO,Broadcom Inc.,Broadcom Inc.,Technology,Semiconductors,1300.27,602572390400,20404000768,0.164,Palo Alto,CA,United States,20000
+NMS,TSLA,Tesla Inc.,Tesla Inc.,Consumer Cyclical,Auto Manufacturers,183.28,584516567040,12264999936,-0.087,Austin,TX,United States,140473
+NYQ,JPM,JP Morgan Chase & Co.,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,191.74,550694551552,,0.11,New York,NY,United States,311921
+NYQ,V,Visa Inc.,Visa Inc.,Financial Services,Credit Services,268.61,549602885632,23942000640,0.099,San Francisco,CA,United States,
+NYQ,WMT,Walmart Inc.,Walmart Inc.,Consumer Defensive,Discount Stores,59.35,478348509184,38864998400,0.057,Bentonville,AR,United States,2100000
+NYQ,XOM,Exxon Mobil Corporation,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,118.27,466339790848,67689000960,-0.035,Spring,TX,United States,62000
+NYQ,UNH,UnitedHealth Group Incorporated,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,483.7,445042720768,35001999360,0.086,Minnetonka,MN,United States,440000
+NYQ,MA,Mastercard Incorporated,Mastercard Incorporated,Financial Services,Credit Services,451.2,419675111424,15345000448,0.126,Purchase,NY,United States,33400
+NYQ,PG,Procter & Gamble Company (The),The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,163.2,385174831104,24217999360,0.006,Cincinnati,OH,United States,107000
+NYQ,JNJ,Johnson & Johnson,Johnson & Johnson,Healthcare,Drug Manufacturers - General,144.59,348430073856,30672750592,-0.136,New Brunswick,NJ,United States,131900
+NYQ,HD,Home Depot Inc. (The),The Home Depot Inc.,Consumer Cyclical,Home Improvement Retail,334.22,331222384640,24935999488,-0.029,Atlanta,GA,United States,463100
+NYQ,MRK,Merck & Company Inc.,Merck & Co. Inc.,Healthcare,Drug Manufacturers - General,129.22,327318110208,10359000064,0.089,Rahway,NJ,United States,70000
+NMS,COST,Costco Wholesale Corporation,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,722.9,320609058816,11072000000,0.057,Issaquah,WA,United States,316000
+NYQ,ORCL,Oracle Corporation,Oracle Corporation,Technology,Software - Infrastructure,113.75,312642994176,20800999424,0.071,Austin,TX,United States,164000
+NYQ,CVX,Chevron Corporation,Chevron Corporation,Energy,Oil & Gas Integrated,161.27,297215787008,41329999872,-0.039,San Ramon,CA,United States,45600
+NYQ,BAC,Bank of America Corporation,Bank of America Corporation,Financial Services,Banks - Diversified,37.01,291152822272,,-0.033,Charlotte,NC,United States,212335
+NYQ,ABBV,AbbVie Inc.,AbbVie Inc.,Healthcare,Drug Manufacturers - General,162.64,287978520576,26875500544,0.007,North Chicago,IL,United States,50000
+NYQ,KO,Coca-Cola Company (The),The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,61.77,266302210048,14440999936,0.072,Atlanta,GA,United States,79100
+NYQ,CRM,Salesforce Inc.,Salesforce Inc.,Technology,Software - Application,268.94,260871798784,9221000192,0.108,San Francisco,CA,United States,72682
+NMS,AMD,Advanced Micro Devices Inc.,Advanced Micro Devices Inc.,Technology,Semiconductors,158.38,255964266496,3854000128,0.102,Santa Clara,CA,United States,26000
+NMS,PEP,Pepsico Inc.,PepsiCo Inc.,Consumer Defensive,Beverages - Non-Alcoholic,175.91,241839308800,16384000000,0.023,Purchase,NY,United States,318000
+NMS,NFLX,Netflix Inc.,Netflix Inc.,Communication Services,Entertainment,550.64,237271334912,8226065920,0.148,Los Gatos,CA,United States,13000
+NYQ,TMO,Thermo Fisher Scientific Inc,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,568.72,217088360448,10780000256,-0.034,Waltham,MA,United States,122000
+NMS,LIN,Linde plc,Linde plc,Basic Materials,Specialty Chemicals,440.96,212355743744,12094999552,0.051,Woking,,United Kingdom,66323
+NYQ,WFC,Wells Fargo & Company,Wells Fargo & Company,Financial Services,Banks - Diversified,59.32,207719661568,,0.021,San Francisco,CA,United States,224824
+NMS,ADBE,Adobe Inc.,Adobe Inc.,Technology,Software - Infrastructure,462.83,207347826688,7589000192,0.113,San Jose,CA,United States,29945
+NYQ,DIS,Walt Disney Company (The),The Walt Disney Company,Communication Services,Entertainment,111.1,203790729216,15594999808,0.002,Burbank,CA,United States,173250
+NYQ,MCD,McDonald's Corporation,McDonald's Corporation,Consumer Cyclical,Restaurants,273.04,196863213568,13683500032,0.081,Chicago,IL,United States,100000
+NMS,TMUS,T-Mobile US Inc.,T-Mobile US Inc.,Communication Services,Telecom Services,164.17,192382615552,29251000320,-0.002,Bellevue,WA,United States,67000
+NMS,CSCO,Cisco Systems Inc.,Cisco Systems Inc.,Technology,Communication Equipment,46.98,190230937600,17671000064,-0.059,San Jose,CA,United States,84900
+NYQ,ACN,Accenture plc,Accenture plc,Technology,Information Technology Services,300.91,189190848512,11277210624,-0.001,Dublin,,Ireland,742000
+NMS,QCOM,QUALCOMM Incorporated,QUALCOMM Incorporated,Technology,Semiconductors,165.85,185088606208,10853000192,0.05,San Diego,CA,United States,50000
+NYQ,ABT,Abbott Laboratories,Abbott Laboratories,Healthcare,Medical Devices,105.97,183877025792,10344750080,0.022,North Chicago,IL,United States,114000
+NYQ,DHR,Danaher Corporation,Danaher Corporation,Healthcare,Diagnostics & Research,246.62,182668214272,7416999936,-0.026,Washington,DC,United States,61000
+NYQ,GE,GE Aerospace,General Electric Company,Industrials,Aerospace & Defense,161.82,177129799680,8483999744,0.108,Evendale,OH,United States,125000
+NMS,INTU,Intuit Inc.,Intuit Inc.,Technology,Software - Application,625.62,175160459264,4087000064,0.41,Mountain View,CA,United States,18200
+NYQ,AXP,American Express Company,American Express Company,Financial Services,Credit Services,234.03,168338472960,,0.099,New York,NY,United States,74600
+NYQ,CAT,Caterpillar Inc.,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,334.57,167076560896,16558000128,-0.004,Irving,TX,United States,113200
+NYQ,VZ,Verizon Communications Inc.,Verizon Communications Inc.,Communication Services,Telecom Services,39.49,166223298560,47947001856,0.002,New York,NY,United States,104400
+NMS,AMAT,Applied Materials Inc.,Applied Materials Inc.,Technology,Semiconductor Equipment & Materials,198.65,165057691648,8136999936,-0.005,Santa Clara,CA,United States,34500
+NMS,TXN,Texas Instruments Incorporated,Texas Instruments Incorporated,Technology,Semiconductors,176.42,160627228672,7800000000,-0.164,Dallas,TX,United States,34000
+NYQ,IBM,International Business Machines,International Business Machines Corporation,Technology,Information Technology Services,166.2,152363024384,14256000000,0.015,Armonk,NY,United States,282200
+NMS,CMCSA,Comcast Corporation,Comcast Corporation,Communication Services,Telecom Services,38.11,149529542656,37586001920,0.012,Philadelphia,PA,United States,186000
+NYQ,MS,Morgan Stanley,Morgan Stanley,Financial Services,Capital Markets,90.84,147763068928,,0.06,New York,NY,United States,79610
+NYQ,PM,Philip Morris International Inc,Philip Morris International Inc.,Consumer Defensive,Tobacco,94.94,147589922816,14023999488,0.097,Stamford,CT,United States,82700
+NYQ,COP,ConocoPhillips,ConocoPhillips,Energy,Oil & Gas E&P,125.62,147113590784,24753000448,-0.208,Houston,TX,United States,9900
+NMS,AMGN,Amgen Inc.,Amgen Inc.,Healthcare,Drug Manufacturers - General,273.94,146934841344,12234999808,0.198,Thousand Oaks,CA,United States,26700
+NYQ,PFE,Pfizer Inc.,Pfizer Inc.,Healthcare,Drug Manufacturers - General,25.62,145074274304,11516999680,-0.413,New York,NY,United States,88000
+NYQ,UNP,Union Pacific Corporation,Union Pacific Corporation,Industrials,Railroads,237.16,144696524800,11553000448,-0.004,Omaha,NE,United States,31052
+NYQ,NOW,ServiceNow Inc.,ServiceNow Inc.,Technology,Software - Application,693.33,142397505536,1516000000,0.242,Santa Clara,CA,United States,22668
+NYQ,BX,Blackstone Inc.,Blackstone Inc.,Financial Services,Asset Management,116.61,141998342144,,1.736,New York,NY,United States,4735
+NYQ,NKE,Nike Inc.,NIKE Inc.,Consumer Cyclical,Footwear & Accessories,92.26,139253563392,6862000128,0.003,Beaverton,OR,United States,83700
+NYQ,GS,Goldman Sachs Group Inc. (The),The Goldman Sachs Group Inc.,Financial Services,Capital Markets,426.71,138478911488,,0.121,New York,NY,United States,44400
+NYQ,UBER,Uber Technologies Inc.,Uber Technologies Inc.,Technology,Software - Application,66.27,137943646208,1932999936,0.154,San Francisco,CA,United States,30400
+NYQ,NEE,NextEra Energy Inc.,NextEra Energy Inc.,Utilities,Utilities - Regulated Electric,66.97,137591881728,15312000000,-0.147,Juno Beach,FL,United States,16800
+NYQ,SCHW,Charles Schwab Corporation (The,The Charles Schwab Corporation,Financial Services,Capital Markets,73.95,135102947328,,-0.074,Westlake,TX,United States,32600
+NYQ,RTX,RTX Corporation,RTX Corporation,Industrials,Aerospace & Defense,101.52,134971850752,9345999872,0.121,Arlington,VA,United States,185000
+NMS,INTC,Intel Corporation,Intel Corporation,Technology,Semiconductors,30.47,131857694720,10501000192,0.086,Santa Clara,CA,United States,130700
+NMS,ISRG,Intuitive Surgical Inc.,Intuitive Surgical Inc.,Healthcare,Medical Instruments & Supplies,370.62,131461128192,2267399936,0.115,Sunnyvale,CA,United States,13676
+NYQ,LOW,Lowe's Companies Inc.,Lowe's Companies Inc.,Consumer Cyclical,Home Improvement Retail,227.99,130454061056,13479999488,-0.171,Mooresville,NC,United States,168000
+NYQ,SPGI,S&P Global Inc.,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,415.83,130113200128,6012000256,0.105,New York,NY,United States,40450
+NYQ,SYK,Stryker Corporation,Stryker Corporation,Healthcare,Medical Devices,336.5,128028164096,5246000128,0.118,Portage,MI,United States,52000
+NYQ,ETN,Eaton Corporation PLC,Eaton Corporation plc,Industrials,Specialty Industrial Machinery,318.26,1.2727E+11,4858999808,0.108,Dublin,,Ireland,
+NYQ,UPS,United Parcel Service Inc.,United Parcel Service Inc.,Industrials,Integrated Freight & Logistics,147.48,125820641280,12410000384,-0.053,Atlanta,GA,United States,500000
+NMS,HON,Honeywell International Inc.,Honeywell International Inc.,Industrials,Conglomerates,192.73,125503070208,8920999936,0.027,Charlotte,NC,United States,95000
+NMS,MU,Micron Technology Inc.,Micron Technology Inc.,Technology,Semiconductors,112.96,125088514048,3663000064,0.577,Boise,ID,United States,43000
+NYQ,ELV,Elevance Health Inc.,Elevance Health Inc.,Healthcare,Healthcare Plans,528.58,122851508224,11152000000,0.01,Indianapolis,IN,United States,104900
+NYQ,PGR,Progressive Corporation (The),The Progressive Corporation,Financial Services,Insurance - Property & Casualty,208.25,121969737728,7865124864,0.206,Mayfield,OH,United States,61432
+NYQ,T,AT&T Inc.,AT&T Inc.,Communication Services,Telecom Services,16.89,121101295616,42345000960,-0.004,Dallas,TX,United States,148290
+NMS,BKNG,Booking Holdings Inc. Common St,Booking Holdings Inc.,Consumer Cyclical,Travel Services,3452.03,117438062592,6429000192,0.182,Norwalk,CT,United States,23364
+NYQ,C,Citigroup Inc.,Citigroup Inc.,Financial Services,Banks - Diversified,61.33,116980842496,,-0.053,New York,NY,United States,237000
+NMS,LRCX,Lam Research Corporation,Lam Research Corporation,Technology,Semiconductor Equipment & Materials,894.41,116936056832,4423145984,-0.02,Fremont,CA,United States,17200
+NYQ,BLK,BlackRock Inc.,BlackRock Inc.,Financial Services,Asset Management,754.64,112260251648,7028749824,0.114,New York,NY,United States,19800
+NYQ,LMT,Lockheed Martin Corporation,Lockheed Martin Corporation,Industrials,Aerospace & Defense,464.93,111554371584,10154000384,0.137,Bethesda,MD,United States,122000
+NYQ,DE,Deere & Company,Deere & Company,Industrials,Farm & Heavy Construction Machinery,391.41,108952109056,16323000320,-0.037,Moline,IL,United States,83000
+NYQ,TJX,TJX Companies Inc. (The),The TJX Companies Inc.,Consumer Cyclical,Apparel Retail,94.09,106556915712,6760999936,0.13,Framingham,MA,United States,349000
+NYQ,MDT,Medtronic plc.,Medtronic plc,Healthcare,Medical Devices,80.24,106544275456,8677000192,0.047,Dublin,,Ireland,95000
+NYQ,BSX,Boston Scientific Corporation,Boston Scientific Corporation,Healthcare,Medical Devices,71.87,105641721856,3744000000,0.138,Marlborough,MA,United States,48000
+NYQ,BA,Boeing Company (The),The Boeing Company,Industrials,Aerospace & Defense,167.84,103034290176,2675000064,-0.075,Arlington,VA,United States,171000
+NMS,VRTX,Vertex Pharmaceuticals Incorpor,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology,392.81,101525282816,4477000192,0.093,Boston,MA,United States,5400
+NYQ,CI,The Cigna Group,The Cigna Group,Healthcare,Healthcare Plans,357.04,101273329664,10721999872,0.116,Bloomfield,CT,United States,70325
+NYQ,CB,Chubb Limited,Chubb Limited,Financial Services,Insurance - Property & Casualty,248.64,100963008512,10547000320,0.192,Zurich,,Switzerland,40000
+NMS,ABNB,Airbnb Inc.,Airbnb Inc.,Consumer Cyclical,Travel Services,158.57,100744593408,1548999936,0.166,San Francisco,CA,United States,6907
+NMS,SBUX,Starbucks Corporation,Starbucks Corporation,Consumer Cyclical,Restaurants,88.49,100190150656,7246700032,0.082,Seattle,WA,United States,381000
+NMS,ADI,Analog Devices Inc.,Analog Devices Inc.,Technology,Semiconductors,200.61,99484106752,5681083904,-0.227,Wilmington,MA,United States,26000
+NMS,ADP,Automatic Data Processing Inc.,Automatic Data Processing Inc.,Industrials,Staffing & Employment Services,241.89,99366240256,5305200128,0.063,Roseland,NJ,United States,63000
+NYQ,MMC,Marsh & McLennan Companies Inc,Marsh & McLennan Companies Inc.,Financial Services,Insurance Brokers,199.43,98263941120,6865999872,0.093,New York,NY,United States,85000
+NMS,REGN,Regeneron Pharmaceuticals Inc.,Regeneron Pharmaceuticals Inc.,Healthcare,Biotechnology,890.66,98138259456,4654199808,0.006,Tarrytown,NY,United States,13450
+NMS,MDLZ,Mondelez International Inc.,Mondelez International Inc.,Consumer Defensive,Confectioners,71.94,96768655360,7185999872,0.071,Chicago,IL,United States,91000
+NYQ,PLD,Prologis Inc.,Prologis Inc.,Real Estate,REIT - Industrial,102.05,94482382848,5995949056,0.1,San Francisco,CA,United States,2574
+NMS,PANW,Palo Alto Networks Inc.,Palo Alto Networks Inc.,Technology,Software - Infrastructure,290.89,93986562048,972800000,0.193,Santa Clara,CA,United States,14789
+NMS,KLAC,KLA Corporation,KLA Corporation,Technology,Semiconductor Equipment & Materials,689.29,92806004736,3885220096,-0.03,Milpitas,CA,United States,15000
+NYQ,FI,Fiserv Inc.,Fiserv Inc.,Technology,Information Technology Services,152.67,89886449664,8200000000,0.074,Milwaukee,WI,United States,42000
+NYQ,BMY,Bristol-Myers Squibb Company,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,43.94,89070772224,18197999616,0.047,Princeton,NJ,United States,34100
+NYQ,CMG,Chipotle Mexican Grill Inc.,Chipotle Mexican Grill Inc.,Consumer Cyclical,Restaurants,3159.6,86785687552,1993038976,0.141,Newport Beach,CA,United States,120000
+NYQ,CVS,CVS Health Corporation,CVS Health Corporation,Healthcare,Healthcare Plans,67.71,85347098624,18439000064,0.12,Woonsocket,RI,United States,219000
+NYQ,WM,Waste Management Inc.,Waste Management Inc.,Industrials,Waste Management,208.02,83433291776,6092000256,0.055,Houston,TX,United States,48000
+NYQ,HCA,HCA Healthcare Inc.,HCA Healthcare Inc.,Healthcare,Medical Care Facilities,309.82,81942740992,12869000192,0.112,Nashville,TN,United States,220000
+NMS,GILD,Gilead Sciences Inc.,Gilead Sciences Inc.,Healthcare,Drug Manufacturers - General,65.2,81302437888,12818249728,0.053,Foster City,CA,United States,18000
+NMS,SNPS,Synopsys Inc.,Synopsys Inc.,Technology,Software - Infrastructure,530.59,80938328064,1584184064,0.211,Sunnyvale,CA,United States,20300
+NYQ,ANET,Arista Networks Inc.,Arista Networks Inc.,Technology,Computer Hardware,256.56,80459522048,2332579072,0.208,Santa Clara,CA,United States,4023
+NYQ,SO,Southern Company (The),The Southern Company,Utilities,Utilities - Regulated Electric,73.5,80455303168,11406999552,-0.142,Atlanta,GA,United States,27819
+NYQ,AMT,American Tower Corporation (REI,American Tower Corporation,Real Estate,REIT - Specialty,171.56,80111992832,6896999936,0.03,Boston,MA,United States,5643
+NYQ,GD,General Dynamics Corporation,General Dynamics Corporation,Industrials,Aerospace & Defense,287.09,78767161344,4790000128,0.086,Reston,VA,United States,111600
+NYQ,SHW,Sherwin-Williams Company (The),The Sherwin-Williams Company,Basic Materials,Specialty Chemicals,299.61,76129992704,4262125056,-0.014,Cleveland,OH,United States,64088
+NYQ,EOG,EOG Resources Inc.,EOG Resources Inc.,Energy,Oil & Gas E&P,132.13,76003295232,13201999872,-0.07,Houston,TX,United States,3050
+NYQ,DUK,Duke Energy Corporation (Holdin,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,98.26,75803656192,13288999936,-0.021,Charlotte,NC,United States,27037
+NMS,CME,CME Group Inc.,CME Group Inc.,Financial Services,Financial Data & Stock Exchanges,209.64,75476271104,3856250112,0.034,Chicago,IL,United States,3565
+NYQ,CL,Colgate-Palmolive Company,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,91.92,75414937600,4704000000,0.062,New York,NY,United States,34000
+NYQ,MO,Altria Group Inc.,Altria Group Inc.,Consumer Defensive,Tobacco,43.81,75249369088,12305999872,-0.01,Richmond,VA,United States,6400
+NMS,CDNS,Cadence Design Systems Inc.,Cadence Design Systems Inc.,Technology,Software - Application,275.63,75008303104,1358658944,-0.012,San Jose,CA,United States,11200
+NYQ,TGT,Target Corporation,Target Corporation,Consumer Defensive,Discount Stores,160.98,74322853888,8700999680,0.017,Minneapolis,MN,United States,415000
+NYQ,ICE,Intercontinental Exchange Inc.,Intercontinental Exchange Inc.,Financial Services,Financial Data & Stock Exchanges,128.76,73834717184,4896000000,0.245,Atlanta,GA,United States,13222
+NYQ,ITW,Illinois Tool Works Inc.,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,244.11,72926642176,4467999744,0.003,Glenview,IL,United States,45000
+NYQ,ZTS,Zoetis Inc.,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,159.24,72764243968,3488000000,0.085,Parsippany,NJ,United States,14100
+NYQ,APH,Amphenol Corporation,Amphenol Corporation,Technology,Electronic Components,120.77,72534949888,3095399936,0.095,Wallingford,CT,United States,95000
+NYQ,TT,Trane Technologies plc,Trane Technologies plc,Industrials,Building Products & Equipment,317.34,72059027456,3136300032,0.086,Swords,,Ireland,40000
+NYQ,FCX,Freeport-McMoRan Inc.,Freeport-McMoRan Inc.,Basic Materials,Copper,49.94,71913594880,8686999552,0.173,Phoenix,AZ,United States,27200
+NYQ,NOC,Northrop Grumman Corporation,Northrop Grumman Corporation,Industrials,Aerospace & Defense,485.03,71852343296,4144000000,0.089,Falls Church,VA,United States,101000
+NMS,PYPL,PayPal Holdings Inc.,PayPal Holdings Inc.,Financial Services,Credit Services,67.92,71495303168,5445000192,0.087,San Jose,CA,United States,27200
+NYQ,MCK,McKesson Corporation,McKesson Corporation,Healthcare,Medical Distribution,537.21,70593691648,4283000064,0.148,Irving,TX,United States,45000
+NYQ,PH,Parker-Hannifin Corporation,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,544.91,69972434944,4955898880,0.031,Cleveland,OH,United States,62730
+NYQ,TDG,Transdigm Group Incorporated,TransDigm Group Incorporated,Industrials,Aerospace & Defense,1248.03,69398331392,3416000000,0.281,Cleveland,OH,United States,15500
+NMS,MAR,Marriott International,Marriott International Inc.,Consumer Cyclical,Lodging,236.13,68066603008,4272000000,0.116,Bethesda,MD,United States,411000
+NYQ,SLB,Schlumberger N.V.,Schlumberger Limited,Energy,Oil & Gas Equipment & Services,47.48,67865063424,7495000064,0.126,Houston,TX,United States,111000
+NYQ,BDX,Becton  Dickinson and Company,Becton  Dickinson and Company,Healthcare,Medical Instruments & Supplies,234.6,67776413696,4912000000,0.026,Franklin Lakes,NJ,United States,
+NYQ,MCO,Moody's Corporation,Moody's Corporation,Financial Services,Financial Data & Stock Exchanges,370.33,67608182784,2606000128,0.147,New York,NY,United States,15151
+NMS,EQIX,Equinix Inc.,Equinix Inc.,Real Estate,REIT - Specialty,711.11,67487326208,2865906944,0.154,Redwood City,CA,United States,13151
+NMS,CTAS,Cintas Corporation,Cintas Corporation,Industrials,Specialty Business Services,658.34,66797154304,2299568896,0.099,Cincinnati,OH,United States,44500
+NMS,NXPI,NXP Semiconductors N.V.,NXP Semiconductors N.V.,Technology,Semiconductors,256.19,65608982528,4832000000,0.033,Eindhoven,,Netherlands,34200
+NYQ,MPC,Marathon Petroleum Corporation,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,181.72,65480257536,16951000064,-0.085,Findlay,OH,United States,18200
+NMS,CSX,CSX Corporation,CSX Corporation,Industrials,Railroads,33.22,64942780416,7134000128,-0.007,Jacksonville,FL,United States,23400
+NYQ,ECL,Ecolab Inc.,Ecolab Inc.,Basic Materials,Specialty Chemicals,226.15,64658997248,3107000064,0.178,Saint Paul,MN,United States,48000
+NYQ,FDX,FedEx Corporation,FedEx Corporation,Industrials,Integrated Freight & Logistics,261.78,64419082240,11262999552,0.139,Memphis,TN,United States,328000
+NYQ,USB,U.S. Bancorp,U.S. Bancorp,Financial Services,Banks - Regional,40.63,63382802432,,-0.087,Minneapolis,MN,United States,70000
+NYQ,PXD,Pioneer Natural Resources Compa,Pioneer Natural Resources Company,Energy,Oil & Gas E&P,269.32,62933356544,9297999872,-0.019,Irving,TX,United States,2213
+NYQ,EMR,Emerson Electric Company,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,107.78,61617823744,4309000192,0.221,Saint Louis,MO,United States,67000
+NYQ,AON,Aon plc,Aon plc,Financial Services,Insurance Brokers,282.01,61317722112,4407000064,0.051,Dublin,,Ireland,50000
+NYQ,PNC,PNC Financial Services Group Inc.,The PNC Financial Services Group Inc.,Financial Services,Banks - Regional,153.26,61004681216,,-0.07,Pittsburgh,PA,United States,
+NYQ,PSX,Phillips 66,Phillips 66,Energy,Oil & Gas Refining & Marketing,143.21,60721041408,8579999744,0.041,Houston,TX,United States,14000
+NYQ,RSG,Republic Services Inc.,Republic Services Inc.,Industrials,Waste Management,191.7,60380708864,4381000192,0.086,Phoenix,AZ,United States,41000
+NMS,ORLY,O'Reilly Automotive Inc.,O'Reilly Automotive Inc.,Consumer Cyclical,Specialty Retail,1013.26,59809697792,3649373952,0.072,Springfield,MO,United States,90601
+NYQ,OXY,Occidental Petroleum Corporatio,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,66.14,58630795264,13018999808,-0.127,Houston,TX,United States,12570
+NMS,CEG,Constellation Energy Corporatio,Constellation Energy Corporation,Utilities,Utilities - Renewable,185.94,58593599488,4144000000,-0.21,Baltimore,MD,United States,13871
+NYQ,MSI,Motorola Solutions Inc.,Motorola Solutions Inc.,Technology,Communication Equipment,339.15,56504422400,2822000128,0.052,Chicago,IL,United States,21000
+NYQ,WELL,Welltower Inc.,Welltower Inc.,Real Estate,REIT - Healthcare Facilities,95.28,56314953728,2700554240,0.198,Toledo,OH,United States,533
+NMS,MNST,Monster Beverage Corporation,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic,53.45,55680466944,2081252992,0.144,Corona,CA,United States,5254
+NMS,PCAR,PACCAR Inc.,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery,106.11,55602806784,6478400000,0.117,Bellevue,WA,United States,32400
+NYQ,CARR,Carrier Global Corporation,Carrier Global Corporation,Industrials,Building Products & Equipment,61.49,55403229184,3048999936,0.172,Palm Beach Gardens,FL,United States,53000
+NYQ,COF,Capital One Financial Corporati,Capital One Financial Corporation,Financial Services,Credit Services,143.43,54804598784,,0.1,McLean,VA,United States,51300
+NMS,ROP,Roper Technologies Inc.,Roper Technologies Inc.,Technology,Software - Application,511.46,54747189248,2591200000,0.144,Sarasota,FL,United States,16800
+NYQ,MMM,3M Company,3M Company,Industrials,Conglomerates,96.51,53404872704,7871000064,-0.008,Saint Paul,MN,United States,85000
+NYQ,VLO,Valero Energy Corporation,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,159.87,52669812736,12328999936,-0.133,San Antonio,TX,United States,9886
+NYQ,SPG,Simon Property Group Inc.,Simon Property Group Inc.,Real Estate,REIT - Retail,140.53,52645064704,4106487040,0.091,Indianapolis,IN,United States,2500
+NYQ,EL,Estee Lauder Companies Inc. (T,The Est‚e Lauder Companies Inc.,Consumer Defensive,Household & Personal Products,146.71,52591575040,1818000000,-0.074,New York,NY,United States,44020
+NYQ,APD,Air Products and Chemicals Inc,Air Products and Chemicals Inc.,Basic Materials,Specialty Chemicals,236.34,52538613760,4050800128,-0.056,Allentown,PA,United States,23000
+NMS,CPRT,Copart Inc.,Copart Inc.,Industrials,Specialty Business Services,54.31,52217004032,1749217024,0.066,Dallas,TX,United States,12000
+NYQ,NSC,Norfolk Southern Corporation,Norfolk Southern Corporation,Industrials,Railroads,230.32,52032516096,4888000000,-0.041,Atlanta,GA,United States,20700
+NYQ,AJG,Arthur J. Gallagher & Co.,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,234.69,51283521536,3123650048,0.199,Rolling Meadows,IL,United States,52980
+NYQ,AZO,AutoZone Inc.,AutoZone Inc.,Consumer Cyclical,Specialty Retail,2956.4,51154292736,4192626944,0.046,Memphis,TN,United States,71400
+NYQ,EW,Edwards Lifesciences Corporatio,Edwards Lifesciences Corporation,Healthcare,Medical Devices,84.67,51022139392,1917825024,0.095,Irvine,CA,United States,19800
+NYQ,GM,General Motors Company,General Motors Company,Consumer Cyclical,Auto Manufacturers,44.53,50806947840,16880000000,0.076,Detroit,MI,United States,163000
+NYQ,AIG,American International Group Inc.,American International Group Inc.,Financial Services,Insurance - Diversified,75.31,50761347072,8961999872,-0.131,New York,NY,United States,
+NYQ,MET,MetLife Inc.,MetLife Inc.,Financial Services,Insurance - Life,71.08,50688499712,3919000064,0.219,New York,NY,United States,45000
+NMS,DXCM,DexCom Inc.,DexCom Inc.,Healthcare,Medical Devices,127.39,50660966400,848499968,0.242,San Diego,CA,United States,9500
+NMS,SMCI,Super Micro Computer Inc.,Super Micro Computer Inc.,Technology,Computer Hardware,858.8,50283081728,906294016,1.032,San Jose,CA,United States,5126
+NYQ,TFC,Truist Financial Corporation,Truist Financial Corporation,Financial Services,Banks - Regional,37.55,50245652480,,-0.229,Charlotte,NC,United States,49218
+NMS,MCHP,Microchip Technology Incorporat,Microchip Technology Incorporated,Technology,Semiconductors,91.98,49704886272,4076699904,-0.186,Chandler,AZ,United States,22600
+NYQ,HLT,Hilton Worldwide Holdings Inc.,Hilton Worldwide Holdings Inc.,Consumer Cyclical,Lodging,197.28,49329074176,2440000000,0.124,McLean,VA,United States,178000
+NYQ,TRV,The Travelers Companies Inc.,The Travelers Companies Inc.,Financial Services,Insurance - Property & Casualty,212.16,48583155712,4912999936,0.157,New York,NY,United States,32967
+NYQ,HES,Hess Corporation,Hess Corporation,Energy,Oil & Gas E&P,157.49,48523145216,5936999936,0.377,New York,NY,United States,1756
+NYQ,F,Ford Motor Company,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,12.15,48279601152,11079999488,0.031,Dearborn,MI,United States,177000
+NMS,FTNT,Fortinet Inc.,Fortinet Inc.,Technology,Software - Infrastructure,63.18,48227000320,1349900032,0.103,Sunnyvale,CA,United States,13568
+NYQ,AFL,AFLAC Incorporated,Aflac Incorporated,Financial Services,Insurance - Life,83.65,48132878336,5496000000,-0.043,Columbus,GA,United States,12785
+NYQ,COR,Cencora Inc.,Cencora Inc.,Healthcare,Medical Distribution,239.05,47635492864,3742921984,0.15,Conshohocken,PA,United States,42000
+NMS,KHC,The Kraft Heinz Company,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,38.61,46935863296,6366000128,-0.071,Pittsburgh,PA,United States,36000
+NYQ,DHI,D.R. Horton Inc.,D.R. Horton Inc.,Consumer Cyclical,Residential Construction,142.49,46923669504,6520999936,0.142,Arlington,TX,United States,13450
+NYQ,NEM,Newmont Corporation,Newmont Corporation,Basic Materials,Gold,40.64,46863605760,3724000000,0.502,Denver,CO,United States,21700
+NYQ,WMB,Williams Companies Inc. (The),The Williams Companies Inc.,Energy,Oil & Gas Midstream,38.36,46738591744,6288000000,-0.125,Tulsa,OK,United States,5601
+NYQ,STZ,Constellation Brands Inc.,Constellation Brands Inc.,Consumer Defensive,Beverages - Wineries & Distilleries,253.46,46377099264,3592800000,0.071,Victor,NY,United States,10600
+NYQ,OKE,ONEOK Inc.,ONEOK Inc.,Energy,Oil & Gas Midstream,79.12,46177599488,4220000000,0.04,Tulsa,OK,United States,4775
+NYQ,O,Realty Income Corporation,Realty Income Corporation,Real Estate,REIT - Retail,53.54,46105972736,3620038912,0.214,San Diego,CA,United States,418
+NYQ,KMB,Kimberly-Clark Corporation,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,136.53,45970878464,3758000128,-0.009,Dallas,TX,United States,41000
+NYQ,PSA,Public Storage,Public Storage,Real Estate,REIT - Industrial,259.45,45712498688,3302257920,0.064,Glendale,CA,United States,6200
+NMS,KDP,Keurig Dr Pepper Inc.,Keurig Dr Pepper Inc.,Consumer Defensive,Beverages - Non-Alcoholic,33.7,45682712576,4110000128,0.034,Burlington,MA,United States,28100
+NMS,ADSK,Autodesk Inc.,Autodesk Inc.,Technology,Software - Application,212.85,45531811840,1219000064,0.115,San Francisco,CA,United States,
+NMS,LULU,lululemon athletica inc.,Lululemon Athletica Inc.,Consumer Cyclical,Apparel Retail,360.6,45438484480,2586561024,0.156,Vancouver,BC,Canada,38000
+NYQ,SRE,DBA Sempra,Sempra,Utilities,Utilities - Diversified,71.63,45312278528,5836000256,0.01,San Diego,CA,United States,16835
+NMS,AEP,American Electric Power Company,American Electric Power Company Inc.,Utilities,Utilities - Regulated Electric,86.03,45302538240,6979700224,-0.062,Columbus,OH,United States,17250
+NYQ,GWW,W.W. Grainger Inc.,W.W. Grainger Inc.,Industrials,Industrial Distribution,921.35,45268873216,2817999872,0.035,Lake Forest,IL,United States,23200
+NYQ,URI,United Rentals Inc.,United Rentals Inc.,Industrials,Rental & Leasing Services,667.99,44869091328,4467999744,0.061,Stamford,CT,United States,26650
+NYQ,ALL,Allstate Corporation (The),The Allstate Corporation,Financial Services,Insurance - Property & Casualty,170.06,44854857728,904000000,0.087,Northbrook,IL,United States,53000
+NYQ,PCG,Pacific Gas & Electric Co.,PG&E Corporation,Utilities,Utilities - Regulated Electric,17.11,44740939776,7750000128,-0.056,Oakland,CA,United States,28010
+NYQ,JCI,Johnson Controls International ,Johnson Controls International plc,Industrials,Building Products & Equipment,65.07,44345012224,3664999936,0.004,Cork,,Ireland,100000
+NYQ,DLR,Digital Realty Trust Inc.,Digital Realty Trust Inc.,Real Estate,REIT - Specialty,138.78,44272623616,2386114048,0.112,Austin,TX,United States,3664
+NMS,ROST,Ross Stores Inc.,Ross Stores Inc.,Consumer Cyclical,Apparel Retail,129.55,43439022080,2727095040,0.155,Dublin,CA,United States,108000
+NYQ,TEL,TE Connectivity Ltd. New Switze,TE Connectivity Ltd.,Technology,Electronic Components,141.48,43325136896,3620999936,-0.046,Schaffhausen,,Switzerland,85000
+NMS,PAYX,Paychex Inc.,Paychex Inc.,Industrials,Staffing & Employment Services,118.81,42767204352,2320600064,0.042,Rochester,NY,United States,16000
+NYQ,D,Dominion Energy Inc.,Dominion Energy Inc.,Utilities,Utilities - Regulated Electric,50.98,42700492800,7222000128,-0.071,Richmond,VA,United States,17700
+NYQ,BK,The Bank of New York Mellon Cor,The Bank of New York Mellon Corporation,Financial Services,Asset Management,56.49,42244128768,,0.038,New York,NY,United States,52100
+NMS,MRNA,Moderna Inc.,Moderna Inc.,Healthcare,Biotechnology,110.31,42235490304,-3617999872,-0.447,Cambridge,MA,United States,5600
+NYQ,IQV,IQVIA Holdings Inc.,IQVIA Holdings Inc.,Healthcare,Diagnostics & Research,231.77,42185383936,2720999936,0.035,Durham,NC,United States,87000
+NYQ,GEV,GE Vernova Inc.,GE Vernova Inc.,Utilities,Utilities - Renewable,153.71,41822031872,731000000,0.064,Cambridge,MA,United States,80000
+NYQ,LEN,Lennar Corporation,Lennar Corporation,Consumer Cyclical,Residential Construction,151.62,41808605184,5732608000,0.127,Miami,FL,United States,12284
+NYQ,AMP,Ameriprise Financial Inc.,Ameriprise Financial Inc.,Financial Services,Asset Management,411.79,41257652224,,0.125,Minneapolis,MN,United States,13800
+NMS,IDXX,IDEXX Laboratories Inc.,IDEXX Laboratories Inc.,Healthcare,Diagnostics & Research,492.76,40925736960,1212035968,0.088,Westbrook,ME,United States,11000
+NYQ,CCI,Crown Castle Inc.,Crown Castle Inc.,Real Estate,REIT - Specialty,93.78,40794300416,4132000000,-0.074,Houston,TX,United States,4700
+NYQ,LHX,L3Harris Technologies Inc.,L3Harris Technologies Inc.,Industrials,Aerospace & Defense,214.05,40601006080,3640000000,0.166,Melbourne,FL,United States,50000
+NYQ,KMI,Kinder Morgan Inc.,Kinder Morgan Inc.,Energy,Oil & Gas Midstream,18.28,40570265600,6458999808,-0.012,Houston,TX,United States,10891
+NYQ,NUE,Nucor Corporation,Nucor Corporation,Basic Materials,Steel,168.53,40443830272,7003897856,-0.066,Charlotte,NC,United States,32000
+NYQ,AME,AMETEK Inc.,AMETEK Inc.,Industrials,Specialty Industrial Machinery,174.66,40383488000,2045095040,0.065,Berwyn,PA,United States,21500
+NYQ,A,Agilent Technologies Inc.,Agilent Technologies Inc.,Healthcare,Diagnostics & Research,137.04,40160256000,1640000000,-0.056,Santa Clara,CA,United States,17700
+NYQ,DOW,Dow Inc.,Dow Inc.,Basic Materials,Chemicals,56.9,40012423168,5087000064,-0.092,Midland,MI,United States,35900
+NYQ,KR,Kroger Company (The),The Kroger Co.,Consumer Defensive,Grocery Stores,55.38,39967080448,8152999936,-0.006,Cincinnati,OH,United States,414000
+NYQ,GIS,General Mills Inc.,General Mills Inc.,Consumer Defensive,Packaged Foods,70.46,39778119680,4295699968,-0.005,Minneapolis,MN,United States,34000
+NYQ,YUM,Yum! Brands Inc.,Yum! Brands Inc.,Consumer Cyclical,Restaurants,141.25,39761874944,2542000128,0.008,Louisville,KY,United States,35000
+NYQ,PRU,Prudential Financial Inc.,Prudential Financial Inc.,Financial Services,Insurance - Life,110.48,39704301568,3280333312,0.561,Newark,NJ,United States,40366
+NYQ,HSY,The Hershey Company,The Hershey Company,Consumer Defensive,Confectioners,193.92,39600791552,2952032000,0.002,Hershey,PA,United States,18650
+NMS,ODFL,Old Dominion Freight Line Inc.,Old Dominion Freight Line Inc.,Industrials,Trucking,181.71,39540097024,1973660288,0.012,Thomasville,NC,United States,22891
+NYQ,CNC,Centene Corporation,Centene Corporation,Healthcare,Healthcare Plans,73.06,38988906496,6133000192,0.044,Saint Louis,MO,United States,59900
+NMS,FAST,Fastenal Company,Fastenal Company,Industrials,Industrial Distribution,67.94,38898843648,1701400064,0.019,Winona,MN,United States,20935
+NYQ,CMI,Cummins Inc.,Cummins Inc.,Industrials,Specialty Industrial Machinery,282.49,38633050112,4464000000,0.099,Columbus,IN,United States,75500
+NYQ,FIS,Fidelity National Information S,Fidelity National Information Services Inc.,Technology,Information Technology Services,67.92,38137962496,3356999936,-0.006,Jacksonville,FL,United States,60000
+NYQ,PWR,Quanta Services Inc.,Quanta Services Inc.,Industrials,Engineering & Construction,258.56,37849047040,1706734976,0.31,Houston,TX,United States,52500
+NYQ,CTVA,Corteva Inc.,Corteva Inc.,Basic Materials,Agricultural Inputs,54.13,37830373376,3216999936,-0.031,Indianapolis,IN,United States,22500
+NYQ,IR,Ingersoll Rand Inc.,Ingersoll Rand Inc.,Industrials,Specialty Industrial Machinery,93.32,37657792512,1700600064,0.122,Davidson,NC,United States,18000
+NMS,EXC,Exelon Corporation,Exelon Corporation,Utilities,Utilities - Regulated Electric,37.58,37570043904,6809999872,0.15,Chicago,IL,United States,19962
+NMS,CSGP,CoStar Group Inc.,CoStar Group Inc.,Real Estate,Real Estate Services,91.53,37375545344,282500000,0.123,Washington,DC,United States,6152
+NYQ,SYY,Sysco Corporation,Sysco Corporation,Consumer Defensive,Food Distribution,74.32,36998725632,3622123008,0.037,Houston,TX,United States,72000
+NYQ,MSCI,MSCI Inc.,MSCI Inc.,Financial Services,Financial Data & Stock Exchanges,465.79,36901838848,1514051968,0.148,New York,NY,United States,5858
+NYQ,OTIS,Otis Worldwide Corporation,Otis Worldwide Corporation,Industrials,Specialty Industrial Machinery,91.2,36874256384,2496999936,0.027,Farmington,CT,United States,71000
+NMS,CHTR,Charter Communications Inc.,Charter Communications Inc.,Communication Services,Telecom Services,255.94,36863037440,21126000640,0.002,Stamford,CT,United States,101100
+NYQ,HUM,Humana Inc.,Humana Inc.,Healthcare,Healthcare Plans,302.09,36402147328,4472000000,0.107,Louisville,KY,United States,67600
+NYQ,MLM,Martin Marietta Materials Inc.,Martin Marietta Materials Inc.,Basic Materials,Building Materials,587.07,36233080832,2115500032,0.089,Raleigh,NC,United States,9400
+NYQ,KVUE,Kenvue Inc.,Kenvue Inc.,Consumer Defensive,Household & Personal Products,18.82,36033712128,3569999872,-0.027,Skillman,NJ,United States,22000
+NYQ,RCL,Royal Caribbean Cruises Ltd.,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,139.63,35933642752,4854000128,0.292,Miami,FL,United States,98100
+NMS,FANG,Diamondback Energy Inc.,Diamondback Energy Inc.,Energy,Oil & Gas E&P,201.13,35870330880,6088000000,0.113,Midland,TX,United States,1023
+NMS,ACGL,Arch Capital Group Ltd.,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,93.54,35105562624,4054000128,0.244,Pembroke,,Bermuda,6400
+NMS,GEHC,GE HealthCare Technologies Inc.,GE HealthCare Technologies Inc.,Healthcare,Health Information Services,76.24,34790445056,3560000000,0.054,Chicago,IL,United States,51000
+NMS,NDAQ,Nasdaq Inc.,Nasdaq Inc.,Financial Services,Financial Data & Stock Exchanges,59.85,34505498624,2187749888,0.092,New York,NY,United States,8525
+NYQ,PEG,Public Service Enterprise Group,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,69.08,34442391552,4798000128,-0.17,Newark,NJ,United States,12543
+NYQ,VMC,Vulcan Materials Company (Holdi,Vulcan Materials Company,Basic Materials,Building Materials,257.63,34077235200,1998899968,0.059,Birmingham,AL,United States,10961
+NMS,EA,Electronic Arts Inc.,Electronic Arts Inc.,Communication Services,Electronic Gaming & Multimedia,126.82,33905326080,1932999936,0.034,Redwood City,CA,United States,13400
+NYQ,HAL,Halliburton Company,Halliburton Company,Energy,Oil & Gas Equipment & Services,37.47,33172230144,5112999936,0.022,Houston,TX,United States,49000
+NYQ,LVS,Las Vegas Sands Corp.,Las Vegas Sands Corp.,Consumer Cyclical,Resorts & Casinos,44.36,33050284032,3935000064,0.396,Las Vegas,NV,United States,38400
+NMS,BKR,Baker Hughes Company,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,32.62,32766787584,3895000064,0.123,Houston,TX,United States,57000
+NMS,CTSH,Cognizant Technology Solutions ,Cognizant Technology Solutions Corporation,Technology,Information Technology Services,65.68,32656031744,3416999936,-0.017,Teaneck,NJ,United States,347700
+NYQ,ED,Consolidated Edison Inc.,Consolidated Edison Inc.,Utilities,Utilities - Regulated Electric,94.4,32636061696,5106999808,-0.146,New York,NY,United States,14592
+NMS,MPWR,Monolithic Power Systems Inc.,Monolithic Power Systems Inc.,Technology,Semiconductors,669.33,32570267648,521904000,-0.013,Kirkland,WA,United States,3564
+NYQ,LYB,LyondellBasell Industries NV,LyondellBasell Industries N.V.,Basic Materials,Specialty Chemicals,99.97,32552433664,4658999808,-0.031,Houston,TX,United States,20000
+NYQ,DVN,Devon Energy Corporation,Devon Energy Corporation,Energy,Oil & Gas E&P,51.18,32499300352,7484000256,-0.121,Oklahoma City,OK,United States,1900
+NMS,CDW,CDW Corporation,CDW Corporation,Technology,Information Technology Services,241.86,32498243584,2029299968,-0.077,Vernon Hills,IL,United States,15100
+NYQ,DAL,Delta Air Lines Inc.,Delta Air Lines Inc.,Industrials,Airlines,50.07,32310822912,8181000192,0.078,Atlanta,GA,United States,103000
+NYQ,IT,Gartner Inc.,Gartner Inc.,Technology,Information Technology Services,412.59,32115509248,1274168064,0.054,Stamford,CT,United States,20237
+NYQ,DFS,Discover Financial Services,Discover Financial Services,Financial Services,Credit Services,126.73,31754102784,,0.294,Riverwoods,IL,United States,21100
+NYQ,XYL,Xylem Inc.,Xylem Inc.,Industrials,Specialty Industrial Machinery,130.7,31681550336,1288000000,0.406,Washington,DC,United States,23000
+NYQ,RMD,ResMed Inc.,ResMed Inc.,Healthcare,Medical Instruments & Supplies,213.99,31436632064,1441419008,0.072,San Diego,CA,United States,
+NYQ,GPN,Global Payments Inc.,Global Payments Inc.,Industrials,Specialty Business Services,122.77,31316783104,3989722112,0.08,Atlanta,GA,United States,27000
+NMS,BIIB,Biogen Inc.,Biogen Inc.,Healthcare,Drug Manufacturers - General,214.82,31277146112,2519800064,-0.07,Cambridge,MA,United States,7570
+NMS,VRSK,Verisk Analytics Inc.,Verisk Analytics Inc.,Industrials,Consulting Services,217.96,31112046592,1250099968,0.074,Jersey City,NJ,United States,7500
+NYQ,ROK,Rockwell Automation Inc.,Rockwell Automation Inc.,Industrials,Specialty Industrial Machinery,270.96,31049846784,1797799936,0.036,Milwaukee,WI,United States,29000
+NYQ,DG,Dollar General Corporation,Dollar General Corporation,Consumer Defensive,Discount Stores,139.19,30576007168,3301793024,-0.034,Goodlettsville,TN,United States,185800
+NYQ,DD,DuPont de Nemours Inc.,DuPont de Nemours Inc.,Basic Materials,Specialty Chemicals,72.5,30310363136,2855000064,-0.066,Wilmington,DE,United States,24000
+NYQ,PPG,PPG Industries Inc.,PPG Industries Inc.,Basic Materials,Specialty Chemicals,129.0,30250500096,2808999936,-0.016,Pittsburgh,PA,United States,50000
+NMS,ON,ON Semiconductor Corporation,ON Semiconductor Corporation,Technology,Semiconductors,70.16,30185078784,3139699968,-0.05,Scottsdale,AZ,United States,30000
+NMS,XEL,Xcel Energy Inc.,Xcel Energy Inc.,Utilities,Utilities - Regulated Electric,53.73,29854482432,5310000128,-0.106,Minneapolis,MN,United States,11311
+NYQ,VICI,VICI Properties Inc.,VICI Properties Inc.,Real Estate,REIT - Diversified,28.55,29781645312,3342408960,0.177,New York,NY,United States,28
+NMS,TSCO,Tractor Supply Company,Tractor Supply Company,Consumer Cyclical,Specialty Retail,273.08,29474068480,1897705984,0.029,Brentwood,TN,United States,50000
+NYQ,ADM,Archer-Daniels-Midland Company,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,58.66,29433477120,4986999808,-0.114,Chicago,IL,United States,40213
+NYQ,EXR,Extra Space Storage Inc,Extra Space Storage Inc.,Real Estate,REIT - Industrial,134.28,29385164800,1792384000,0.572,Salt Lake City,UT,United States,7618
+NYQ,HIG,Hartford Financial Services Gro,The Hartford Financial Services Group Inc.,Financial Services,Insurance - Property & Casualty,96.89,28655702016,3988000000,0.086,Hartford,CT,United States,18700
+NYQ,GLW,Corning Incorporated,Corning Incorporated,Technology,Electronic Components,33.38,28551651328,2692999936,-0.121,Corning,NY,United States,49800
+NYQ,WAB,Westinghouse Air Brake Technolo,Westinghouse Air Brake Technologies Corporation,Industrials,Railroads,161.08,28412094464,1932999936,0.138,Pittsburgh,PA,United States,29000
+NMS,ANSS,ANSYS Inc.,ANSYS Inc.,Technology,Software - Application,324.88,28362024960,758638976,0.16,Canonsburg,PA,United States,6200
+NYQ,FICO,Fair Isaac Corproation,Fair Isaac Corporation,Technology,Software - Application,1133.33,28005603328,700952000,0.141,Bozeman,MT,United States,3550
+NYQ,GRMN,Garmin Ltd.,Garmin Ltd.,Technology,Scientific & Technical Instruments,144.47,27749654528,1269731968,0.135,Schaffhausen,,Switzerland,19900
+NYQ,HPQ,HP Inc.,HP Inc.,Technology,Computer Hardware,28.09,27485532160,5200999936,-0.044,Palo Alto,CA,United States,58000
+NYQ,EIX,Edison International,Edison International,Utilities,Utilities - Regulated Electric,71.06,27335360512,5968000000,-0.077,Rosemead,CA,United States,13003
+NYQ,HWM,Howmet Aerospace Inc.,Howmet Aerospace Inc.,Industrials,Aerospace & Defense,66.75,27259566080,1456999936,0.144,Pittsburgh,PA,United States,23200
+NYQ,EFX,Equifax Inc.,Equifax Inc.,Industrials,Consulting Services,220.19,27217905664,1620000000,0.067,Atlanta,GA,United States,15000
+NYQ,AVB,AvalonBay Communities Inc.,AvalonBay Communities Inc.,Real Estate,REIT - Residential,189.57,26953822208,1735269248,0.065,Arlington,VA,United States,2978
+NYQ,CBRE,CBRE Group Inc,CBRE Group Inc.,Real Estate,Real Estate Services,86.89,26670796800,1887600000,0.092,Dallas,TX,United States,130000
+NYQ,FTV,Fortive Corporation,Fortive Corporation,Technology,Scientific & Technical Instruments,75.27,26497220608,1610300032,0.044,Everett,WA,United States,18000
+NYQ,CHD,Church & Dwight Company Inc.,Church & Dwight Co. Inc.,Consumer Defensive,Household & Personal Products,107.89,26314909696,1258300032,0.064,Ewing,NJ,United States,5550
+NYQ,MTD,Mettler-Toledo International Inc.,Mettler-Toledo International Inc.,Healthcare,Diagnostics & Research,1229.7,26300698624,1164046976,-0.116,Columbus,OH,United States,
+NYQ,WST,West Pharmaceutical Services Inc.,West Pharmaceutical Services Inc.,Healthcare,Medical Instruments & Supplies,357.48,26169466880,809600000,-0.03,Exton,PA,United States,
+NMS,EBAY,eBay Inc.,eBay Inc.,Consumer Cyclical,Internet Retail,51.54,26102124544,2484999936,0.021,San Jose,CA,United States,12300
+NYQ,WEC,WEC Energy Group Inc.,WEC Energy Group Inc.,Utilities,Utilities - Regulated Electric,82.64,26099445760,3448800000,-0.133,Milwaukee,WI,United States,7000
+NYQ,KEYS,Keysight Technologies Inc.,Keysight Technologies Inc.,Technology,Scientific & Technical Instruments,147.94,25823815680,1503000064,-0.088,Santa Rosa,CA,United States,15500
+NMS,DLTR,Dollar Tree Inc.,Dollar Tree Inc.,Consumer Defensive,Discount Stores,118.25,25776490496,2636900096,0.119,Chesapeake,VA,United States,65894
+NMS,WTW,Willis Towers Watson Public Lim,Willis Towers Watson Public Limited Company,Financial Services,Insurance Brokers,251.14,25675548672,2480999936,0.043,London,,United Kingdom,48000
+NYQ,RJF,Raymond James Financial Inc.,Raymond James Financial Inc.,Financial Services,Capital Markets,122.0,25501415424,,0.1,Saint Petersburg,FL,United States,18000
+NYQ,TRGP,Targa Resources Inc.,Targa Resources Corp.,Energy,Oil & Gas Midstream,114.06,25382342656,3961700096,-0.069,Houston,TX,United States,3182
+NYQ,CAH,Cardinal Health Inc.,Cardinal Health Inc.,Healthcare,Medical Distribution,103.04,25062727680,2728000000,0.116,Dublin,OH,United States,47040
+NMS,FITB,Fifth Third Bancorp,Fifth Third Bancorp,Financial Services,Banks - Regional,36.46,24931784704,,-0.024,Cincinnati,OH,United States,18657
+NYQ,ZBH,Zimmer Biomet Holdings Inc.,Zimmer Biomet Holdings Inc.,Healthcare,Medical Devices,120.28,24712847360,2448900096,0.063,Warsaw,IN,United States,18000
+NYQ,DOV,Dover Corporation,Dover Corporation,Industrials,Specialty Industrial Machinery,179.3,24641200128,1728628992,0.007,Downers Grove,IL,United States,25000
+NMS,TROW,T. Rowe Price Group Inc.,T. Rowe Price Group Inc.,Financial Services,Asset Management,109.57,24466980864,2543800064,0.138,Baltimore,MD,United States,7878
+NYQ,EQR,Equity Residential,Equity Residential,Real Estate,REIT - Residential,64.4,24403736576,1786111232,0.036,Chicago,IL,United States,2400
+NMS,TTWO,Take-Two Interactive Software Inc.,Take-Two Interactive Software Inc.,Communication Services,Electronic Gaming & Multimedia,142.81,24384235520,1415900032,-0.029,New York,NY,United States,
+NYQ,MTB,M&T Bank Corporation,M&T Bank Corporation,Financial Services,Banks - Regional,144.39,24058404864,,-0.099,Buffalo,NY,United States,21736
+NYQ,AWK,American Water Works Company Inc.,American Water Works Company Inc.,Utilities,Utilities - Regulated Water,122.32,23830626304,2240000000,0.108,Camden,NJ,United States,
+NMS,AXON,Axon Enterprise Inc.,Axon Enterprise Inc.,Industrials,Aerospace & Defense,313.66,23669817344,189727008,0.286,Scottsdale,AZ,United States,3330
+NYQ,PHM,PulteGroup Inc.,PulteGroup Inc.,Consumer Cyclical,Residential Construction,111.42,23436304384,3625106944,0.104,Atlanta,GA,United States,6382
+NYQ,BRO,Brown & Brown Inc.,Brown & Brown Inc.,Financial Services,Insurance Brokers,81.54,23259203584,1449299968,0.118,Daytona Beach,FL,United States,16152
+NYQ,VLTO,Veralto Corp,Veralto Corporation,Industrials,Pollution & Treatment Controls,93.68,23124627456,1240000000,0.017,Waltham,MA,United States,16000
+NMS,WDC,Western Digital Corporation,Western Digital Corporation,Technology,Computer Hardware,70.83,23124295680,-322000000,,San Jose,CA,United States,53000
+NYQ,DTE,DTE Energy Company,DTE Energy Company,Utilities,Utilities - Regulated Electric,110.32,22829289472,3284000000,-0.143,Detroit,MI,United States,9608
+NYQ,BF-B,Brown Forman Inc,Brown-Forman Corporation,Consumer Defensive,Beverages - Wineries & Distilleries,47.85,22823012352,1290000000,-0.011,Louisville,KY,United States,5600
+NYQ,BR,Broadridge Financial Solutions Inc.,Broadridge Financial Solutions Inc.,Technology,Information Technology Services,193.41,22778281984,1460099968,0.087,Lake Success,NY,United States,
+NYQ,NVR,NVR Inc.,NVR Inc.,Consumer Cyclical,Residential Construction,7438.85,22769799168,2008734976,0.074,Reston,VA,United States,6300
+NYQ,ETR,Entergy Corporation,Entergy Corporation,Utilities,Utilities - Regulated Electric,106.67,22749829120,4663808000,-0.063,New Orleans,LA,United States,12000
+NYQ,IRM,Iron Mountain Incorporated (Del,Iron Mountain Incorporated,Real Estate,REIT - Specialty,77.52,22720800768,1830920960,0.11,Portsmouth,NH,United States,27000
+NYQ,BLDR,Builders FirstSource Inc.,Builders FirstSource Inc.,Industrials,Building Products & Equipment,182.82,22298738688,2734594048,-0.047,Irving,TX,United States,29000
+NYQ,HPE,Hewlett Packard Enterprise Comp,Hewlett Packard Enterprise Company,Technology,Communication Equipment,17.0,22097111040,4998000128,-0.135,Spring,TX,United States,62000
+NYQ,FE,FirstEnergy Corp.,FirstEnergy Corp.,Utilities,Utilities - Regulated Electric,38.34,22065285120,3785999872,0.017,Akron,OH,United States,12042
+NYQ,WY,Weyerhaeuser Company,Weyerhaeuser Company,Real Estate,REIT - Specialty,30.17,21994442752,1527000064,-0.045,Seattle,WA,United States,9300
+NYQ,BALL,Ball Corporation,Ball Corporation,Consumer Cyclical,Packaging & Containers,69.57,21902026752,2048000000,-0.176,Westminster,CO,United States,16000
+NYQ,GPC,Genuine Parts Company,Genuine Parts Company,Consumer Cyclical,Auto Parts,157.21,21899198464,2147603968,0.003,Atlanta,GA,United States,60000
+NYQ,STT,State Street Corporation,State Street Corporation,Financial Services,Asset Management,72.49,21856024576,,0.018,Boston,MA,United States,42786
+NYQ,TSN,Tyson Foods Inc.,Tyson Foods Inc.,Consumer Defensive,Farm Products,60.65,21652596736,2080000000,0.004,Springdale,AR,United States,139000
+NYQ,IFF,International Flavors & Fragran,International Flavors & Fragrances Inc.,Basic Materials,Specialty Chemicals,84.65,21612754944,1754000000,-0.05,New York,NY,United States,21500
+NYQ,ROL,Rollins Inc.,Rollins Inc.,Consumer Cyclical,Personal Services,44.56,21590880256,716265984,0.137,Atlanta,GA,United States,19000
+NYQ,CPAY,Corpay Inc.,Corpay Inc.,Technology,Software - Infrastructure,302.14,21512157184,1993476992,0.061,Atlanta,GA,United States,10500
+NYQ,ES,Eversource Energy (D/B/A),Eversource Energy,Utilities,Utilities - Regulated Electric,60.62,21261070336,3838074880,-0.111,Springfield,MA,United States,10171
+NMS,ALGN,Align Technology Inc.,Align Technology Inc.,Healthcare,Medical Devices,282.38,21257367552,819446272,0.058,Tempe,AZ,United States,21610
+NMS,PTC,PTC Inc.,PTC Inc.,Technology,Software - Application,177.44,21213306880,562902976,0.181,Boston,MA,United States,7168
+NMS,NTAP,NetApp Inc.,NetApp Inc.,Technology,Computer Hardware,102.21,21093791744,1444000000,0.052,San Jose,CA,United States,12000
+NYQ,DECK,Deckers Outdoor Corporation,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,818.47,21008650240,944140032,0.16,Goleta,CA,United States,4200
+NYQ,INVH,Invitation Homes Inc.,Invitation Homes Inc.,Real Estate,REIT - Residential,34.2,20946987008,1356889984,0.072,Dallas,TX,United States,1555
+NYQ,WRB,W.R. Berkley Corporation,W. R. Berkley Corporation,Financial Services,Insurance - Property & Casualty,76.97,20644278272,,0.125,Greenwich,CT,United States,8329
+NYQ,BAX,Baxter International Inc.,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,40.37,20562337792,2776000000,0.037,Deerfield,IL,United States,60000
+NYQ,CTRA,Coterra Energy Inc.,Coterra Energy Inc.,Energy,Oil & Gas E&P,27.36,20555294720,3795000064,-0.302,Houston,TX,United States,894
+NMS,STLD,Steel Dynamics Inc.,Steel Dynamics Inc.,Basic Materials,Steel,130.12,20552062976,3512157952,-0.041,Fort Wayne,IN,United States,12600
+NYQ,LYV,Live Nation Entertainment Inc.,Live Nation Entertainment Inc.,Communication Services,Entertainment,88.91,20520251392,1609523968,0.361,Beverly Hills,CA,United States,14700
+NYQ,MKC,McCormick & Company Incorporat,McCormick & Company Incorporated,Consumer Defensive,Packaged Foods,76.06,20413134848,1223800064,0.024,Hunt Valley,MD,United States,13800
+NYQ,ARE,Alexandria Real Estate Equities,Alexandria Real Estate Equities Inc.,Real Estate,REIT - Office,115.87,20263694336,1784144000,0.097,Pasadena,CA,United States,568
+NYQ,PPL,PPL Corporation,PPL Corporation,Utilities,Utilities - Regulated Electric,27.46,20257845248,3136000000,-0.113,Allentown,PA,United States,6629
+NYQ,STE,STERIS plc (Ireland),STERIS plc,Healthcare,Medical Devices,204.56,20213391360,1422059008,0.148,Dublin,,Ireland,17000
+NMS,SBAC,SBA Communications Corporation,SBA Communications Corporation,Real Estate,REIT - Specialty,186.12,20104867840,1802258944,-0.026,Boca Raton,FL,United States,1787
+NYQ,MOH,Molina Healthcare Inc,Molina Healthcare Inc.,Healthcare,Healthcare Plans,342.1,20041519104,1704000000,0.208,Long Beach,CA,United States,18000
+NYQ,HUBB,Hubbell Inc,Hubbell Incorporated,Industrials,Electrical Equipment & Parts,370.52,19890550784,1189299968,0.103,Shelton,CT,United States,18317
+NYQ,K,Kellanova,Kellanova,Consumer Defensive,Packaged Foods,57.86,19774177280,1820000000,-0.172,Chicago,IL,United States,23000
+NYQ,AEE,Ameren Corporation,Ameren Corporation,Utilities,Utilities - Regulated Electric,73.87,19687168000,3140999936,-0.209,Saint Louis,MO,United States,9372
+NMS,ILMN,Illumina Inc.,Illumina Inc.,Healthcare,Diagnostics & Research,123.05,19596328960,338000000,0.036,San Diego,CA,United States,10590
+NYQ,TYL,Tyler Technologies Inc.,Tyler Technologies Inc.,Technology,Software - Application,461.55,19595243520,345296992,0.086,Plano,TX,United States,7305
+NMS,ULTA,Ulta Beauty Inc.,Ulta Beauty Inc.,Consumer Cyclical,Specialty Retail,404.84,19541100544,1920979968,0.102,Bolingbrook,IL,United States,20000
+NMS,HBAN,Huntington Bancshares Incorpora,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,13.47,19521398784,,-0.102,Columbus,OH,United States,19719
+NYQ,HRL,Hormel Foods Corporation,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,35.56,19475785728,1308002944,0.009,Austin,MN,United States,20000
+NYQ,CCL,Carnival Corporation,Carnival Corporation & plc,Consumer Cyclical,Travel Services,14.82,19414200320,4792000000,0.22,Miami,FL,United States,106000
+NYQ,APTV,Aptiv PLC,Aptiv PLC,Consumer Cyclical,Auto Parts,71.0,19360208896,2744000000,0.06,Dublin,,Ireland,154000
+BTS,CBOE,Cboe Global Markets Inc.,Cboe Global Markets Inc.,Financial Services,Financial Data & Stock Exchanges,181.15,19113316352,1200499968,-0.036,Chicago,IL,United States,1647
+NYQ,LDOS,Leidos Holdings Inc.,Leidos Holdings Inc.,Technology,Information Technology Services,140.22,18933346304,1632999936,0.077,Reston,VA,United States,47000
+NMS,FSLR,First Solar Inc.,First Solar Inc.,Technology,Solar,176.3,18870800384,1193966976,0.156,Tempe,AZ,United States,6700
+NMS,PFG,Principal Financial Group Inc,Principal Financial Group Inc.,Financial Services,Asset Management,79.14,18597900288,1862800000,0.438,Des Moines,IA,United States,19800
+NYQ,DPZ,Domino's Pizza Inc,Domino's Pizza Inc.,Consumer Cyclical,Restaurants,529.27,18461044736,872108032,0.031,Ann Arbor,MI,United States,6500
+NYQ,CNP,CenterPoint Energy Inc (Holdin,CenterPoint Energy Inc.,Utilities,Utilities - Regulated Electric,29.14,18448447488,2972000000,-0.195,Houston,TX,United States,8827
+NYQ,CLX,Clorox Company (The),The Clorox Company,Consumer Defensive,Household & Personal Products,147.87,18351554560,1082000000,0.16,Oakland,CA,United States,8700
+NYQ,WAT,Waters Corporation,Waters Corporation,Healthcare,Diagnostics & Research,309.04,18329100288,1022251008,-0.045,Milford,MA,United States,7900
+NYQ,DRI,Darden Restaurants Inc.,Darden Restaurants Inc.,Consumer Cyclical,Restaurants,153.41,18310864896,1724800000,0.068,Orlando,FL,United States,187384
+NYQ,OMC,Omnicom Group Inc.,Omnicom Group Inc.,Communication Services,Advertising Agencies,92.84,18181228544,2458500096,0.054,New York,NY,United States,75900
+NMS,CINF,Cincinnati Financial Corporatio,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,115.69,18127349760,3120000000,0.31,Fairfield,OH,United States,5426
+NYQ,CMS,CMS Energy Corporation,CMS Energy Corporation,Utilities,Utilities - Regulated Electric,60.61,18100267008,2478749952,-0.047,Jackson,MI,United States,8356
+NYQ,TDY,Teledyne Technologies Incorpora,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments,381.48,18090735616,1350300032,-0.024,Thousand Oaks,CA,United States,14900
+NMS,STX,Seagate Technology Holdings PLC,Seagate Technology Holdings plc,Technology,Computer Hardware,85.91,18040154112,422000000,-0.11,Dublin,,Ireland,33400
+NYQ,J,Jacobs Solutions Inc.,Jacobs Solutions Inc.,Industrials,Engineering & Construction,143.53,18034688000,1482252032,0.095,Dallas,TX,United States,60000
+NMS,WBD,Warner Bros. Discovery Inc. - ,Warner Bros. Discovery Inc.,Communication Services,Entertainment,7.36,18032957440,7408999936,-0.066,New York,NY,United States,35300
+NYQ,VTR,Ventas Inc.,Ventas Inc.,Real Estate,REIT - Healthcare Facilities,44.28,17891289088,1772999040,0.135,Chicago,IL,United States,486
+NMS,EXPE,Expedia Group Inc.,Expedia Group Inc.,Consumer Cyclical,Travel Services,134.63,17834571776,1632000000,0.103,Seattle,WA,United States,17100
+NMS,TER,Teradyne Inc.,Teradyne Inc.,Technology,Semiconductor Equipment & Materials,116.32,17793935360,615196032,-0.029,North Reading,MA,United States,6600
+NMS,HOLX,Hologic Inc.,Hologic Inc.,Healthcare,Medical Instruments & Supplies,75.77,17785643008,1247399936,-0.057,Marlborough,MA,United States,6990
+NYQ,ATO,Atmos Energy Corporation,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,117.9,17784035328,1777826944,-0.219,Dallas,TX,United States,5019
+NYQ,EQT,EQT Corporation,EQT Corporation,Energy,Oil & Gas E&P,40.09,17703424000,2920306944,-0.307,Pittsburgh,PA,United States,881
+NMS,COO,The Cooper Companies Inc.,The Cooper Companies Inc.,Healthcare,Medical Instruments & Supplies,89.06,17701208064,882899968,0.085,San Ramon,CA,United States,15000
+NYQ,RF,Regions Financial Corporation,Regions Financial Corporation,Financial Services,Banks - Regional,19.27,17689860096,,0.156,Birmingham,AL,United States,20101
+NYQ,SYF,Synchrony Financial,Synchrony Financial,Financial Services,Credit Services,43.98,17659904000,,0.526,Stamford,CT,United States,20000
+NYQ,AVY,Avery Dennison Corporation,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,217.28,17495472128,1335000064,0.042,Mentor,OH,United States,35000
+NYQ,CE,Celanese Corporation,Celanese Corporation,Basic Materials,Chemicals,153.61,17137192960,1831000064,0.094,Irving,TX,United States,12410
+NMS,SWKS,Skyworks Solutions Inc.,Skyworks Solutions Inc.,Technology,Semiconductors,106.59,17101831168,1422800000,-0.096,Irvine,CA,United States,9750
+NYQ,LH,Laboratory Corporation of Ameri,Laboratory Corporation of America Holdings,Healthcare,Diagnostics & Research,201.37,16975491072,1620300032,0.046,Burlington,NC,United States,67000
+NMS,UAL,United Airlines Holdings Inc.,United Airlines Holdings Inc.,Industrials,Airlines,51.46,16920202240,7982000128,0.097,Chicago,IL,United States,104500
+NMS,VRSN,VeriSign Inc.,VeriSign Inc.,Technology,Software - Infrastructure,169.48,16880207872,1060499968,0.055,Reston,VA,United States,907
+NMS,NTRS,Northern Trust Corporation,Northern Trust Corporation,Financial Services,Asset Management,82.39,16856334336,,-0.043,Chicago,IL,United States,23000
+NMS,JBHT,J.B. Hunt Transport Services Inc.,J.B. Hunt Transport Services Inc.,Industrials,Integrated Freight & Logistics,162.57,16776736768,1655213952,-0.088,Lowell,AR,United States,
+NYQ,L,Loews Corporation,Loews Corporation,Financial Services,Insurance - Property & Casualty,75.15,16688710656,2801999872,0.123,New York,NY,United States,12280
+NYQ,IEX,IDEX Corporation,IDEX Corporation,Industrials,Specialty Industrial Machinery,220.46,16687808512,882400000,-0.053,Northbrook,IL,United States,8800
+NYQ,ESS,Essex Property Trust Inc.,Essex Property Trust Inc.,Real Estate,REIT - Residential,246.25,16367080448,1084536064,-0.044,San Mateo,CA,United States,1747
+NMS,ZBRA,Zebra Technologies Corporation,Zebra Technologies Corporation,Technology,Communication Equipment,314.56,16167597056,761000000,-0.329,Lincolnshire,IL,United States,9750
+NYQ,TXT,Textron Inc.,Textron Inc.,Industrials,Aerospace & Defense,84.59,16131228672,1688000000,0.037,Providence,RI,United States,35000
+NYQ,EG,Everest Group Ltd.,Everest Group,Financial Services,Insurance - Reinsurance,366.41,15952465920,,0.228,Hamilton,,Bermuda,
+NYQ,FDS,FactSet Research Systems Inc.,FactSet Research Systems Inc.,Financial Services,Financial Data & Stock Exchanges,416.89,15890096128,796985024,0.06,Norwalk,CT,United States,12279
+NYQ,BBY,Best Buy Co. Inc.,Best Buy Co. Inc.,Consumer Cyclical,Specialty Retail,73.64,15860656128,2649999872,-0.006,Richfield,MN,United States,85000
+NYQ,EXPD,Expeditors International of Was,Expeditors International of Washington Inc.,Industrials,Integrated Freight & Logistics,111.31,15792997376,1007692992,-0.338,Seattle,WA,United States,18100
+NYQ,CFG,Citizens Financial Group Inc.,Citizens Financial Group Inc.,Financial Services,Banks - Regional,34.11,15638923264,,-0.088,Providence,RI,United States,17354
+NYQ,NRG,NRG Energy Inc.,NRG Energy Inc.,Utilities,Utilities - Independent Power Producers,72.67,15604719616,282000000,-0.133,Houston,TX,United States,18131
+NYQ,MAA,Mid-America Apartment Communiti,Mid-America Apartment Communities Inc.,Real Estate,REIT - Residential,130.0,15583229952,1254759040,0.027,Germantown,TN,United States,2427
+NYQ,PKG,Packaging Corporation of Americ,Packaging Corporation of America,Consumer Cyclical,Packaging & Containers,172.98,15525784576,1553149952,0.002,Lake Forest,IL,United States,14900
+NYQ,LUV,Southwest Airlines Company,Southwest Airlines Co.,Industrials,Airlines,25.94,15523948544,2088999936,0.109,Dallas,TX,United States,74695
+NMS,AKAM,Akamai Technologies Inc.,Akamai Technologies Inc.,Technology,Software - Infrastructure,100.93,15463586816,1101026048,0.072,Cambridge,MA,United States,10250
+NYQ,DGX,Quest Diagnostics Incorporated,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,138.18,15350691840,1775000064,0.015,Secaucus,NJ,United States,50000
+NYQ,MRO,Marathon Oil Corporation,Marathon Oil Corporation,Energy,Oil & Gas E&P,26.85,15344157696,4312999936,-0.001,Houston,TX,United States,1681
+NMS,WBA,Walgreens Boots Alliance Inc.,Walgreens Boots Alliance Inc.,Healthcare,Pharmaceutical Retailers,17.73,15295901696,3711000064,0.063,Deerfield,IL,United States,330000
+NYQ,MAS,Masco Corporation,Masco Corporation,Industrials,Building Products & Equipment,68.45,15075700736,1523000064,-0.027,Livonia,MI,United States,18000
+NYQ,CF,CF Industries Holdings Inc.,CF Industries Holdings Inc.,Basic Materials,Agricultural Inputs,78.97,14824722432,3132000000,-0.398,Northbrook,IL,United States,2700
+NGM,ENPH,Enphase Energy Inc.,Enphase Energy Inc.,Technology,Solar,108.76,14798213120,334287008,-0.637,Fremont,CA,United States,3157
+NMS,NDSN,Nordson Corporation,Nordson Corporation,Industrials,Specialty Industrial Machinery,258.19,14766453760,815385024,0.037,Westlake,OH,United States,7900
+NYQ,CAG,ConAgra Brands Inc.,Conagra Brands Inc.,Consumer Defensive,Packaged Foods,30.78,14714779648,2244199936,-0.017,Chicago,IL,United States,18600
+NMS,TRMB,Trimble Inc.,Trimble Inc.,Technology,Scientific & Technical Instruments,60.07,14669574144,817299968,0.089,Westminster,CO,United States,12700
+NYQ,BG,Bunge Limited,Bunge Global SA,Consumer Defensive,Farm Products,101.76,14408708096,3403000064,-0.125,Chesterfield,MO,United States,23000
+NMS,FOX,Fox Corporation,Fox Corporation,Communication Services,Entertainment,28.68,14189201408,2753999872,-0.081,New York,NY,United States,10400
+NMS,FOXA,Fox Corporation,Fox Corporation,Communication Services,Entertainment,31.01,14165925888,2753999872,-0.081,New York,NY,United States,10400
+NYQ,JBL,Jabil Inc.,Jabil Inc.,Technology,Electronic Components,117.36,14153264128,2356000000,-0.168,Saint Petersburg,FL,United States,236000
+NYQ,ALB,Albemarle Corporation,Albemarle Corporation,Basic Materials,Specialty Chemicals,120.31,14139432960,897067008,-0.101,Charlotte,NC,United States,9000
+NYQ,SNA,Snap-On Incorporated,Snap-on Incorporated,Industrials,Tools & Accessories,267.96,14126448640,1447100032,0.005,Kenosha,WI,United States,13200
+NYQ,SWK,Stanley Black & Decker Inc.,Stanley Black & Decker Inc.,Industrials,Tools & Accessories,91.4,14057686016,1197799936,-0.063,New Britain,CT,United States,50500
+NMS,POOL,Pool Corporation,Pool Corporation,Industrials,Industrial Distribution,362.53,13952184320,750465024,-0.071,Covington,LA,United States,6000
+NMS,VTRS,Viatris Inc.,Viatris Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,11.57,13775935488,4856900096,-0.01,Canonsburg,PA,United States,38000
+NMS,NWSA,News Corporation,News Corporation,Communication Services,Entertainment,23.8,13669291008,1260000000,0.026,New York,NY,United States,25000
+NYQ,KEY,KeyCorp,KeyCorp,Financial Services,Banks - Regional,14.49,13660823552,,-0.094,Cleveland,OH,United States,16752
+NMS,NWS,News Corporation,News Corporation,Communication Services,Entertainment,24.54,13637468160,1260000000,0.026,New York,NY,United States,25000
+NYQ,EPAM,EPAM Systems Inc.,EPAM Systems Inc.,Technology,Information Technology Services,235.26,13627670528,675449024,-0.06,Newtown,PA,United States,53150
+NYQ,CPB,Campbell Soup Company,Campbell Soup Company,Consumer Defensive,Packaged Foods,45.71,13626288128,1742000000,-0.012,Camden,NJ,United States,14500
+NYQ,UDR,UDR Inc.,UDR Inc.,Real Estate,REIT - Residential,38.08,13544333312,1004284032,-0.046,Highlands Ranch,CO,United States,1397
+NMS,HST,Host Hotels & Resorts Inc.,Host Hotels & Resorts Inc.,Real Estate,REIT - Hotel & Motel,18.87,13466236928,1460999936,0.047,Bethesda,MD,United States,163
+NYQ,PNR,Pentair plc.,Pentair plc,Industrials,Specialty Industrial Machinery,79.09,13130915840,904499968,-0.011,London,,United Kingdom,10500
+NYQ,DOC,Healthpeak Properties Inc.,Healthpeak Properties Inc.,Real Estate,REIT - Healthcare Facilities,18.61,13097383936,1117715968,0.154,Denver,CO,United States,193
+NYQ,AMCR,Amcor plc,Amcor plc,Consumer Cyclical,Packaging & Containers,8.94,12921338880,1808000000,-0.107,Zurich,,Switzerland,41000
+NMS,GEN,Gen Digital Inc.,Gen Digital Inc.,Technology,Software - Infrastructure,20.14,12827367424,1858000000,0.016,Tempe,AZ,United States,3700
+NMS,LNT,Alliant Energy Corporation,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,49.8,12767624192,1592999936,-0.092,Madison,WI,United States,3281
+NYQ,AES,The AES Corporation,The AES Corporation,Utilities,Utilities - Diversified,17.9,12723463168,3364999936,-0.03,Arlington,VA,United States,9600
+NYQ,RVTY,Revvity Inc.,Revvity Inc.,Healthcare,Diagnostics & Research,102.47,12657606656,813252992,-0.061,Waltham,MA,United States,11500
+NYQ,KIM,Kimco Realty Corporation (HC),Kimco Realty Corporation,Real Estate,REIT - Retail,18.63,12559096832,1079208960,0.027,Jericho,NY,United States,660
+NYQ,MGM,MGM Resorts International,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,39.44,12503110656,2397216000,0.219,Las Vegas,NV,United States,58000
+NYQ,NI,NiSource Inc,NiSource Inc.,Utilities,Utilities - Regulated Gas,27.86,12486517760,2092499968,-0.166,Merrillville,IN,United States,7364
+NYQ,WRK,Westrock Company,WestRock Company,Consumer Cyclical,Packaging & Containers,47.96,12386771968,2710000128,-0.062,Atlanta,GA,United States,56100
+NYQ,SJM,The J.M. Smucker Company,The J. M. Smucker Company,Consumer Defensive,Packaged Foods,114.85,12194313216,1799000064,0.006,Orrville,OH,United States,5800
+NYQ,DVA,DaVita Inc.,DaVita Inc.,Healthcare,Medical Care Facilities,139.01,12191538176,2346446080,0.078,Denver,CO,United States,70000
+NYQ,AOS,A.O. Smith Corporation,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,82.84,12150141952,825100032,0.013,Milwaukee,WI,United States,12000
+NYQ,TAP,Molson Coors Beverage Company,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,57.26,12144273408,2281900032,0.061,Golden,CO,United States,16500
+NYQ,IP,International Paper Company,International Paper Company,Consumer Cyclical,Packaging & Containers,34.94,12135779328,2040999936,-0.08,Memphis,TN,United States,39000
+NMS,EVRG,Evergy Inc.,Evergy Inc.,Utilities,Utilities - Regulated Electric,52.45,12050178048,2370099968,-0.072,Kansas City,MO,United States,4658
+NMS,PODD,Insulet Corporation,Insulet Corporation,Healthcare,Medical Devices,171.94,12039667712,308600000,0.379,Acton,MA,United States,3000
+NYQ,LW,Lamb Weston Holdings Inc.,Lamb Weston Holdings Inc.,Consumer Defensive,Packaged Foods,83.34,12033546240,1372199936,0.163,Eagle,ID,United States,10200
+NYQ,BEN,Franklin Resources Inc.,Franklin Resources Inc.,Financial Services,Asset Management,22.84,12026585088,1833100032,0.117,San Mateo,CA,United States,9200
+NMS,JKHY,Jack Henry & Associates Inc.,Jack Henry & Associates Inc.,Technology,Information Technology Services,162.69,11854845952,557190016,0.08,Monett,MO,United States,7120
+NYQ,CRL,Charles River Laboratories Inte,Charles River Laboratories International Inc.,Healthcare,Diagnostics & Research,229.0,11795973120,970294016,-0.079,Wilmington,MA,United States,20400
+NMS,INCY,Incyte Corporation,Incyte Corporation,Healthcare,Biotechnology,52.05,11686578176,738524032,0.093,Wilmington,DE,United States,2524
+NMS,APA,APA Corporation,APA Corporation,Energy,Oil & Gas E&P,31.44,11681626112,5103000064,-0.154,Houston,TX,United States,2271
+NMS,LKQ,LKQ Corporation,LKQ Corporation,Consumer Cyclical,Auto Parts,43.13,11506049024,1723000064,0.106,Chicago,IL,United States,49000
+NYQ,IPG,Interpublic Group of Companies Inc.,The Interpublic Group of Companies Inc.,Communication Services,Advertising Agencies,30.44,11488786432,1736800000,0.003,New York,NY,United States,
+NYQ,UHS,Universal Health Services Inc.,Universal Health Services Inc.,Healthcare,Medical Care Facilities,170.43,11475767296,1852866048,0.108,King of Prussia,PA,United States,96700
+NYQ,JNPR,Juniper Networks Inc.,Juniper Networks Inc.,Technology,Communication Equipment,34.82,11316081664,660600000,-0.162,Sunnyvale,CA,United States,11144
+NMS,QRVO,Qorvo Inc.,Qorvo Inc.,Technology,Semiconductors,116.84,11280726016,499004992,0.445,Greensboro,NC,United States,8500
+NYQ,SOLV,Solventum Corporation,Solventum Corporation,Healthcare,Health Information Services,65.01,11227811840,2248999936,0.015,Saint Paul,MN,United States,
+NYQ,EMN,Eastman Chemical Company,Eastman Chemical Company,Basic Materials,Specialty Chemicals,94.44,11106050048,1546000000,-0.042,Kingsport,TN,United States,14000
+NMS,REG,Regency Centers Corporation,Regency Centers Corporation,Real Estate,REIT - Retail,59.22,11007873024,839577024,0.182,Jacksonville,FL,United States,492
+NYQ,HII,Huntington Ingalls Industries Inc.,Huntington Ingalls Industries Inc.,Industrials,Aerospace & Defense,276.93,10968781824,1119000064,0.13,Newport News,VA,United States,
+NYQ,PAYC,Paycom Software Inc.,Paycom Software Inc.,Technology,Software - Application,187.98,10931055616,503369984,0.173,Oklahoma City,OK,United States,7308
+NYQ,KMX,CarMax Inc,CarMax Inc.,Consumer Cyclical,Auto & Truck Dealerships,67.97,10697662464,995705984,-0.006,Richmond,VA,United States,29836
+NYQ,CPT,Camden Property Trust,Camden Property Trust,Real Estate,REIT - Residential,99.68,10642734080,899507968,0.032,Houston,TX,United States,1640
+NYQ,ALLE,Allegion plc,Allegion plc,Industrials,Security & Protection Services,121.56,10629292032,836300032,-0.032,Dublin,,Ireland,12200
+NYQ,RL,Ralph Lauren Corporation,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,163.64,10460784640,974200000,0.056,New York,NY,United States,14900
+NMS,WYNN,Wynn Resorts Limited,Wynn Resorts Limited,Consumer Cyclical,Resorts & Casinos,91.65,10270941184,1732264960,0.831,Las Vegas,NV,United States,
+NYQ,BBWI,Bath & Body Works Inc.,Bath & Body Works Inc.,Consumer Cyclical,Specialty Retail,45.42,10214820864,1554000000,0.008,Columbus,OH,United States,8981
+NYQ,CTLT,Catalent Inc.,Catalent Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,55.85,10107397120,327000000,-0.109,Somerset,NJ,United States,18000
+NYQ,MOS,Mosaic Company (The),The Mosaic Company,Basic Materials,Agricultural Inputs,31.39,10097817600,2337799936,-0.297,Tampa,FL,United States,14049
+NMS,TECH,Bio-Techne Corp,Bio-Techne Corporation,Healthcare,Biotechnology,63.21,9936106496,323364992,0.004,Minneapolis,MN,United States,3200
+NYQ,TFX,Teleflex Incorporated,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies,208.75,9832375296,743744000,0.021,Wayne,PA,United States,14500
+NMS,FFIV,F5 Inc.,F5 Inc.,Technology,Software - Infrastructure,165.31,9721252864,760164992,-0.031,Seattle,WA,United States,6459
+NYQ,BXP,Boston Properties Inc.,Boston Properties Inc.,Real Estate,REIT - Office,61.89,9719761920,1845555968,0.348,Boston,MA,United States,836
+NYQ,DAY,Dayforce Inc.,Dayforce Inc,Technology,Software - Application,61.37,9546840064,212900000,0.189,Minneapolis,MN,United States,9084
+NYQ,TPR,Tapestry Inc.,Tapestry Inc.,Consumer Cyclical,Luxury Goods,39.92,9156290560,1428000000,0.029,New York,NY,United States,12600
+NYQ,AIZ,Assurant Inc.,Assurant Inc.,Financial Services,Insurance - Specialty,174.4,9077851136,1145400064,0.125,Atlanta,GA,United States,13600
+NMS,HSIC,Henry Schein Inc.,Henry Schein Inc.,Healthcare,Medical Distribution,69.28,8901164032,943000000,-0.105,Melville,NY,United States,25000
+NMS,AAL,American Airlines Group Inc.,American Airlines Group Inc.,Industrials,Airlines,13.51,8863775744,5925000192,0.031,Fort Worth,TX,United States,132800
+NYQ,FRT,Federal Realty Investment Trust,Federal Realty Investment Trust,Real Estate,REIT - Retail,104.17,8706507776,709790016,0.042,North Bethesda,MD,United States,297
+NMS,HAS,Hasbro Inc.,Hasbro Inc.,Consumer Cyclical,Leisure,61.3,8532775424,665800000,-0.243,Pawtucket,RI,United States,5502
+NYQ,PNW,Pinnacle West Capital Corporati,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,73.65,8363473408,1719424000,-0.018,Phoenix,AZ,United States,6133
+NMS,MTCH,Match Group Inc.,Match Group Inc.,Communication Services,Internet Content & Information,30.82,8260129792,1026433984,0.102,Dallas,TX,United States,2600
+NMS,CHRW,C.H. Robinson Worldwide Inc.,C.H. Robinson Worldwide Inc.,Industrials,Integrated Freight & Logistics,71.0,8215552000,592265024,-0.167,Eden Prairie,MN,United States,15246
+NYQ,GNRC,Generac Holdlings Inc.,Generac Holdings Inc.,Industrials,Specialty Industrial Machinery,135.96,8194214400,553260992,0.014,Waukesha,WI,United States,8315
+NMS,ETSY,Etsy Inc.,Etsy Inc.,Consumer Cyclical,Internet Retail,68.67,8054372864,432732000,0.043,Brooklyn,NY,United States,2420
+NYQ,NCLH,Norwegian Cruise Line Holdings ,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,Travel Services,18.92,8053430272,1813768960,0.308,Miami,FL,United States,41000
+NMS,PARA,Paramount Global,Paramount Global,Communication Services,Entertainment,11.39,7806375936,2712000000,0.058,New York,NY,United States,21900
+NMS,CZR,Caesars Entertainment Inc.,Caesars Entertainment Inc.,Consumer Cyclical,Resorts & Casinos,35.82,7747866112,3815000064,0.001,Reno,NV,United States,51000
+NYQ,BIO,Bio-Rad Laboratories Inc.,Bio-Rad Laboratories Inc.,Healthcare,Medical Devices,269.75,7706730496,511596000,-0.067,Hercules,CA,United States,8030
+NMS,MKTX,MarketAxess Holdings Inc.,MarketAxess Holdings Inc.,Financial Services,Capital Markets,200.09,7576947712,385576000,0.109,New York,NY,United States,881
+NYQ,BWA,BorgWarner Inc.,BorgWarner Inc.,Consumer Cyclical,Auto Parts,32.77,7568428032,1830000000,0.062,Auburn Hills,MI,United States,39900
+NYQ,FMC,FMC Corporation,FMC Corporation,Basic Materials,Agricultural Inputs,59.01,7365450752,863500032,-0.293,Philadelphia,PA,United States,6600
+NYQ,MHK,Mohawk Industries Inc.,Mohawk Industries Inc.,Consumer Cyclical,Furnishings  Fixtures & Appliances,115.32,7364692480,1425073024,-0.045,Calhoun,GA,United States,
+NYQ,RHI,Robert Half Inc.,Robert Half Inc.,Industrials,Staffing & Employment Services,69.14,7274150400,423055744,-0.14,Menlo Park,CA,United States,15000
+NYQ,GL,Globe Life Inc.,Globe Life Inc.,Financial Services,Insurance - Life,76.17,7162790400,1362925056,0.072,McKinney,TX,United States,3636
+NYQ,CMA,Comerica Incorporated,Comerica Incorporated,Financial Services,Banks - Regional,50.17,6651889664,,-0.198,Dallas,TX,United States,7619
+NYQ,IVZ,Invesco Ltd,Invesco Ltd.,Financial Services,Asset Management,14.17,6373665792,977699968,0.04,Atlanta,GA,United States,8527
